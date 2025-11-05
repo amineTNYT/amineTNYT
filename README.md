@@ -59,8 +59,8 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 
 - **Discord:** `amineTNYT`
 - **GitHub:** [@amineTNYT](https://github.com/amineTNYT)
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Here]
+- **Email:** [benabdallahamine004@gmail.com]
+
 
 ---
 
