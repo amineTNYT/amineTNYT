@@ -1,5 +1,5 @@
 
-# 👋 Hey there, I'm Amin!
+# 👋 Hey I'm Amin!
 
 **`Digital Craftsman (Developer/Creator)`**
 
@@ -39,7 +39,7 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 
 ---
 
-### 🔥 Recent Activity
+###  Recent Activity
 
 <!--START_SECTION:activity-->
 <!-- Your recent activity will appear here -->
@@ -47,7 +47,7 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 - **Discord:** `amineTNYT`
 - **GitHub:** [@amineTNYT](https://github.com/amineTNYT)
@@ -56,7 +56,7 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 
 ---
 
-### 📂 Repository Overview
+###  Repository Overview
 
 **`X`** Public Repositories • **`Y`** Private Repositories • **`Z`** Forks • **`11`** Stars • **`1`** Contributions to others
 
@@ -64,10 +64,10 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 
 ### 🎯 Current Focus
 
-- 🔭 I’m currently working on: **Awesome Projects**
-- 🌱 I’m currently learning: **New Technologies**
-- 👯 I’m looking to collaborate on: **Open Source**
-- 💬 Ask me about: **Web Dev, Python, JavaScript**
+-  I’m currently working on: **Awesome Projects**
+-  I’m currently learning: **New Technologies**
+-  I’m looking to collaborate on: **Open Source**
+-  Ask me about: **Web Dev, Python, JavaScript**
 
 ---
 
