@@ -39,19 +39,11 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 
 ---
 
-###  Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- Your recent activity will appear here -->
-<!--END_SECTION:activity-->
-
----
-
 ###  Let's Connect!
 
 - **Discord:** `amineTNYT`
 - **GitHub:** [@amineTNYT](https://github.com/amineTNYT)
-- **Email:** [benabdallahamine004@gmail.com]
+- **Email:** benabdallahamine004@gmail.com
 
 
 ---
