@@ -32,7 +32,7 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 ![Trophies](https://github-profile-trophy.vercel.app/?username=amineTNYT&theme=radical)
 
 ---
-[![Sorting Visualizer](https://img.shields.io/badge/Algorithm_Visualizer-See_Sorting_Algorithms!-blue?style=for-the-badge&logo=python)](https://your-repo-link)
+[![AI Assistant](https://img.shields.io/badge/Ask_My_AI-Algorithm_Help-purple?style=for-the-badge&logo=openai)](https://your-ai-app-link)
 
 ###  Let's Connect!
 
