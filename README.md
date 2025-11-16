@@ -32,12 +32,7 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 ![Trophies](https://github-profile-trophy.vercel.app/?username=amineTNYT&theme=radical)
 
 ---
-
-### 📈 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=amineTNYT&theme=react-dark)
-
----
+[![Sorting Visualizer](https://img.shields.io/badge/Algorithm_Visualizer-See_Sorting_Algorithms!-blue?style=for-the-badge&logo=python)](https://your-repo-link)
 
 ###  Let's Connect!
 
@@ -51,15 +46,6 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 ###  Repository Overview
 
 **`X`** Public Repositories • **`Y`** Private Repositories • **`Z`** Forks • **`11`** Stars • **`1`** Contributions to others
-
----
-
-### 🎯 Current Focus
-
--  I’m currently working on: **Awesome Projects**
--  I’m currently learning: **New Technologies**
--  I’m looking to collaborate on: **Open Source**
--  Ask me about: **Web Dev, Python, JavaScript**
 
 ---
 
