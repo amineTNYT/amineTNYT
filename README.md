@@ -32,7 +32,6 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 ![Trophies](https://github-profile-trophy.vercel.app/?username=amineTNYT&theme=radical)
 
 ---
-[![AI Assistant](https://img.shields.io/badge/Ask_My_AI-Algorithm_Help-purple?style=for-the-badge&logo=openai)](https://your-ai-app-link)
 
 ###  Let's Connect!
 
@@ -40,13 +39,7 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 - **GitHub:** [@amineTNYT](https://github.com/amineTNYT)
 - **Email:** benabdallahamine004@gmail.com
 
-
----
-
-###  Repository Overview
-
-**`X`** Public Repositories • **`Y`** Private Repositories • **`Z`** Forks • **`11`** Stars • **`1`** Contributions to others
-[![Electric Button](https://media.giphy.com/media/your-electric-gif.gif)](https://your-portfolio-site)
+[![⚡ ELECTRIC SHOW ⚡](https://img.shields.io/badge/⚡_WATCH_ELECTRICITY!-CLICK_HERE-yellow?style=for-the-badge&logo=lightning)](https://YOUR_USERNAME.github.io/profile/electric-effect/)
 ---
 
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
