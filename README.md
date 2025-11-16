@@ -46,7 +46,7 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 ###  Repository Overview
 
 **`X`** Public Repositories • **`Y`** Private Repositories • **`Z`** Forks • **`11`** Stars • **`1`** Contributions to others
-
+[![Electric Button](https://media.giphy.com/media/your-electric-gif.gif)](https://your-portfolio-site)
 ---
 
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
