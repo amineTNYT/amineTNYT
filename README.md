@@ -27,12 +27,6 @@ I'm a passionate developer who loves turning complex problems into simple, beaut
 
 ---
 
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=amineTNYT&theme=radical)
-
----
-
 ###  Let's Connect!
 
 - **Discord:** `amineTNYT`
